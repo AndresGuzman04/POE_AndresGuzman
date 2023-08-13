@@ -1,0 +1,51 @@
+C:\Users\benit\source\repos\MultiplicaOperaciones\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.csproj.AssemblyReference.cache
+C:\Users\benit\source\repos\MultiplicaOperaciones\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.Forms.MainForm.resources
+C:\Users\benit\source\repos\MultiplicaOperaciones\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.csproj.GenerateResource.cache
+C:\Users\benit\source\repos\MultiplicaOperaciones\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\source\repos\MultiplicaOperaciones\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.AssemblyInfoInputs.cache
+C:\Users\benit\source\repos\MultiplicaOperaciones\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.AssemblyInfo.cs
+C:\Users\benit\source\repos\MultiplicaOperaciones\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.csproj.CoreCompileInputs.cache
+C:\Users\benit\source\repos\MultiplicaOperaciones\MultiplicaOperacion\bin\Debug\net6.0-windows\MultiplicaOperacion.exe
+C:\Users\benit\source\repos\MultiplicaOperaciones\MultiplicaOperacion\bin\Debug\net6.0-windows\MultiplicaOperacion.deps.json
+C:\Users\benit\source\repos\MultiplicaOperaciones\MultiplicaOperacion\bin\Debug\net6.0-windows\MultiplicaOperacion.runtimeconfig.json
+C:\Users\benit\source\repos\MultiplicaOperaciones\MultiplicaOperacion\bin\Debug\net6.0-windows\MultiplicaOperacion.dll
+C:\Users\benit\source\repos\MultiplicaOperaciones\MultiplicaOperacion\bin\Debug\net6.0-windows\MultiplicaOperacion.pdb
+C:\Users\benit\source\repos\MultiplicaOperaciones\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.dll
+C:\Users\benit\source\repos\MultiplicaOperaciones\MultiplicaOperacion\obj\Debug\net6.0-windows\refint\MultiplicaOperacion.dll
+C:\Users\benit\source\repos\MultiplicaOperaciones\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.pdb
+C:\Users\benit\source\repos\MultiplicaOperaciones\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.genruntimeconfig.cache
+C:\Users\benit\source\repos\MultiplicaOperaciones\MultiplicaOperacion\obj\Debug\net6.0-windows\ref\MultiplicaOperacion.dll
+C:\Users\benit\OneDrive\Escritorio\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\bin\Debug\net6.0-windows\MultiplicaOperacion.exe
+C:\Users\benit\OneDrive\Escritorio\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\bin\Debug\net6.0-windows\MultiplicaOperacion.deps.json
+C:\Users\benit\OneDrive\Escritorio\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\bin\Debug\net6.0-windows\MultiplicaOperacion.runtimeconfig.json
+C:\Users\benit\OneDrive\Escritorio\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\bin\Debug\net6.0-windows\MultiplicaOperacion.dll
+C:\Users\benit\OneDrive\Escritorio\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\bin\Debug\net6.0-windows\MultiplicaOperacion.pdb
+C:\Users\benit\OneDrive\Escritorio\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.csproj.AssemblyReference.cache
+C:\Users\benit\OneDrive\Escritorio\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.Forms.MainForm.resources
+C:\Users\benit\OneDrive\Escritorio\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.csproj.GenerateResource.cache
+C:\Users\benit\OneDrive\Escritorio\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benit\OneDrive\Escritorio\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.AssemblyInfoInputs.cache
+C:\Users\benit\OneDrive\Escritorio\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.AssemblyInfo.cs
+C:\Users\benit\OneDrive\Escritorio\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.csproj.CoreCompileInputs.cache
+C:\Users\benit\OneDrive\Escritorio\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.dll
+C:\Users\benit\OneDrive\Escritorio\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\refint\MultiplicaOperacion.dll
+C:\Users\benit\OneDrive\Escritorio\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.pdb
+C:\Users\benit\OneDrive\Escritorio\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.genruntimeconfig.cache
+C:\Users\benit\OneDrive\Escritorio\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\ref\MultiplicaOperacion.dll
+C:\Users\User\Desktop\POE\Laboratorio_1\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\bin\Debug\net6.0-windows\MultiplicaOperacion.exe
+C:\Users\User\Desktop\POE\Laboratorio_1\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\bin\Debug\net6.0-windows\MultiplicaOperacion.deps.json
+C:\Users\User\Desktop\POE\Laboratorio_1\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\bin\Debug\net6.0-windows\MultiplicaOperacion.runtimeconfig.json
+C:\Users\User\Desktop\POE\Laboratorio_1\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\bin\Debug\net6.0-windows\MultiplicaOperacion.dll
+C:\Users\User\Desktop\POE\Laboratorio_1\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\bin\Debug\net6.0-windows\MultiplicaOperacion.pdb
+C:\Users\User\Desktop\POE\Laboratorio_1\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\POE\Laboratorio_1\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.Forms.MainForm.resources
+C:\Users\User\Desktop\POE\Laboratorio_1\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.csproj.GenerateResource.cache
+C:\Users\User\Desktop\POE\Laboratorio_1\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\POE\Laboratorio_1\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\POE\Laboratorio_1\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.AssemblyInfo.cs
+C:\Users\User\Desktop\POE\Laboratorio_1\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\POE\Laboratorio_1\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.dll
+C:\Users\User\Desktop\POE\Laboratorio_1\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\refint\MultiplicaOperacion.dll
+C:\Users\User\Desktop\POE\Laboratorio_1\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.pdb
+C:\Users\User\Desktop\POE\Laboratorio_1\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\MultiplicaOperacion.genruntimeconfig.cache
+C:\Users\User\Desktop\POE\Laboratorio_1\MultiplicaOperaciones_ejercicios 3\MultiplicaOperacion\obj\Debug\net6.0-windows\ref\MultiplicaOperacion.dll
