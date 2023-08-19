@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "interesCompuestoUI/1.0.0": {
+        "runtime": {
+          "interesCompuestoUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "interesCompuestoUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

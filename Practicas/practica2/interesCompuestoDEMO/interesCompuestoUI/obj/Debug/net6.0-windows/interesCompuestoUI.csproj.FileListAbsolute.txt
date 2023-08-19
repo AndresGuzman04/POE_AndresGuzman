@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\POE\Practicas\practica2\interesCompuestoDEMO\interesCompuestoUI\bin\Debug\net6.0-windows\interesCompuestoUI.exe
+C:\Users\User\Desktop\POE\Practicas\practica2\interesCompuestoDEMO\interesCompuestoUI\bin\Debug\net6.0-windows\interesCompuestoUI.deps.json
+C:\Users\User\Desktop\POE\Practicas\practica2\interesCompuestoDEMO\interesCompuestoUI\bin\Debug\net6.0-windows\interesCompuestoUI.runtimeconfig.json
+C:\Users\User\Desktop\POE\Practicas\practica2\interesCompuestoDEMO\interesCompuestoUI\bin\Debug\net6.0-windows\interesCompuestoUI.dll
+C:\Users\User\Desktop\POE\Practicas\practica2\interesCompuestoDEMO\interesCompuestoUI\bin\Debug\net6.0-windows\interesCompuestoUI.pdb
+C:\Users\User\Desktop\POE\Practicas\practica2\interesCompuestoDEMO\interesCompuestoUI\obj\Debug\net6.0-windows\interesCompuestoUI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\POE\Practicas\practica2\interesCompuestoDEMO\interesCompuestoUI\obj\Debug\net6.0-windows\interesCompuestoUI.Forms.interesCompuesto.resources
+C:\Users\User\Desktop\POE\Practicas\practica2\interesCompuestoDEMO\interesCompuestoUI\obj\Debug\net6.0-windows\interesCompuestoUI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\POE\Practicas\practica2\interesCompuestoDEMO\interesCompuestoUI\obj\Debug\net6.0-windows\interesCompuestoUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\POE\Practicas\practica2\interesCompuestoDEMO\interesCompuestoUI\obj\Debug\net6.0-windows\interesCompuestoUI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\POE\Practicas\practica2\interesCompuestoDEMO\interesCompuestoUI\obj\Debug\net6.0-windows\interesCompuestoUI.AssemblyInfo.cs
+C:\Users\User\Desktop\POE\Practicas\practica2\interesCompuestoDEMO\interesCompuestoUI\obj\Debug\net6.0-windows\interesCompuestoUI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\POE\Practicas\practica2\interesCompuestoDEMO\interesCompuestoUI\obj\Debug\net6.0-windows\interesCompuestoUI.dll
+C:\Users\User\Desktop\POE\Practicas\practica2\interesCompuestoDEMO\interesCompuestoUI\obj\Debug\net6.0-windows\refint\interesCompuestoUI.dll
+C:\Users\User\Desktop\POE\Practicas\practica2\interesCompuestoDEMO\interesCompuestoUI\obj\Debug\net6.0-windows\interesCompuestoUI.pdb
+C:\Users\User\Desktop\POE\Practicas\practica2\interesCompuestoDEMO\interesCompuestoUI\obj\Debug\net6.0-windows\interesCompuestoUI.genruntimeconfig.cache
+C:\Users\User\Desktop\POE\Practicas\practica2\interesCompuestoDEMO\interesCompuestoUI\obj\Debug\net6.0-windows\ref\interesCompuestoUI.dll
