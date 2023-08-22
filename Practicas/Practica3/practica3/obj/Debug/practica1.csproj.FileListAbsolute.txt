@@ -1,0 +1,12 @@
+C:\Users\CDS2\source\repos\practica1\obj\Debug\practica1.csproj.AssemblyReference.cache
+C:\Users\CDS2\source\repos\practica1\obj\Debug\practica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\CDS2\source\repos\practica1\obj\Debug\practica1.Form1.resources
+C:\Users\CDS2\source\repos\practica1\obj\Debug\practica1.Properties.Resources.resources
+C:\Users\CDS2\source\repos\practica1\obj\Debug\practica1.csproj.GenerateResource.cache
+C:\Users\CDS2\source\repos\practica1\obj\Debug\practica1.csproj.CoreCompileInputs.cache
+C:\Users\CDS2\source\repos\practica1\bin\Debug\practica1.exe.config
+C:\Users\CDS2\source\repos\practica1\bin\Debug\practica1.exe
+C:\Users\CDS2\source\repos\practica1\bin\Debug\practica1.pdb
+C:\Users\CDS2\source\repos\practica1\obj\Debug\practica1.exe
+C:\Users\CDS2\source\repos\practica1\obj\Debug\practica1.pdb
+C:\Users\CDS2\source\repos\practica1\obj\Debug\practica1.Forms.Form2.resources
