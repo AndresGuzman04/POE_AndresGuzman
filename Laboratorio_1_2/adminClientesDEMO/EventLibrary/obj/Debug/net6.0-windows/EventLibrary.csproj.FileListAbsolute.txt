@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\POE\Laboratorio_1_2\adminClientesDEMO\EventLibrary\bin\Debug\net6.0-windows\EventLibrary.deps.json
+C:\Users\User\Desktop\POE\Laboratorio_1_2\adminClientesDEMO\EventLibrary\bin\Debug\net6.0-windows\EventLibrary.dll
+C:\Users\User\Desktop\POE\Laboratorio_1_2\adminClientesDEMO\EventLibrary\bin\Debug\net6.0-windows\EventLibrary.pdb
+C:\Users\User\Desktop\POE\Laboratorio_1_2\adminClientesDEMO\EventLibrary\obj\Debug\net6.0-windows\EventLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\POE\Laboratorio_1_2\adminClientesDEMO\EventLibrary\obj\Debug\net6.0-windows\EventLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\POE\Laboratorio_1_2\adminClientesDEMO\EventLibrary\obj\Debug\net6.0-windows\EventLibrary.AssemblyInfo.cs
+C:\Users\User\Desktop\POE\Laboratorio_1_2\adminClientesDEMO\EventLibrary\obj\Debug\net6.0-windows\EventLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\POE\Laboratorio_1_2\adminClientesDEMO\EventLibrary\obj\Debug\net6.0-windows\EventLibrary.dll
+C:\Users\User\Desktop\POE\Laboratorio_1_2\adminClientesDEMO\EventLibrary\obj\Debug\net6.0-windows\refint\EventLibrary.dll
+C:\Users\User\Desktop\POE\Laboratorio_1_2\adminClientesDEMO\EventLibrary\obj\Debug\net6.0-windows\EventLibrary.pdb
+C:\Users\User\Desktop\POE\Laboratorio_1_2\adminClientesDEMO\EventLibrary\obj\Debug\net6.0-windows\ref\EventLibrary.dll
