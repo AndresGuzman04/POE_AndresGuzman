@@ -1,0 +1,12 @@
+C:\Users\vasqu\OneDrive\Desktop\practica4poe\tiempos\bin\Debug\net6.0\tiempos.deps.json
+C:\Users\vasqu\OneDrive\Desktop\practica4poe\tiempos\bin\Debug\net6.0\tiempos.dll
+C:\Users\vasqu\OneDrive\Desktop\practica4poe\tiempos\bin\Debug\net6.0\tiempos.pdb
+C:\Users\vasqu\OneDrive\Desktop\practica4poe\tiempos\obj\Debug\net6.0\tiempos.csproj.AssemblyReference.cache
+C:\Users\vasqu\OneDrive\Desktop\practica4poe\tiempos\obj\Debug\net6.0\tiempos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasqu\OneDrive\Desktop\practica4poe\tiempos\obj\Debug\net6.0\tiempos.AssemblyInfoInputs.cache
+C:\Users\vasqu\OneDrive\Desktop\practica4poe\tiempos\obj\Debug\net6.0\tiempos.AssemblyInfo.cs
+C:\Users\vasqu\OneDrive\Desktop\practica4poe\tiempos\obj\Debug\net6.0\tiempos.csproj.CoreCompileInputs.cache
+C:\Users\vasqu\OneDrive\Desktop\practica4poe\tiempos\obj\Debug\net6.0\tiempos.dll
+C:\Users\vasqu\OneDrive\Desktop\practica4poe\tiempos\obj\Debug\net6.0\refint\tiempos.dll
+C:\Users\vasqu\OneDrive\Desktop\practica4poe\tiempos\obj\Debug\net6.0\tiempos.pdb
+C:\Users\vasqu\OneDrive\Desktop\practica4poe\tiempos\obj\Debug\net6.0\ref\tiempos.dll

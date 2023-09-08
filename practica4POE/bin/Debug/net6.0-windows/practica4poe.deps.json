@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "practica4poe/1.0.0": {
+        "dependencies": {
+          "tiempos": "1.0.0"
+        },
+        "runtime": {
+          "practica4poe.dll": {}
+        }
+      },
+      "tiempos/1.0.0": {
+        "runtime": {
+          "tiempos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practica4poe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "tiempos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
